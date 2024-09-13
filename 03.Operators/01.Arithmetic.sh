@@ -1,7 +1,7 @@
 #!/bin/bash
 
-a=10
-b=20
+a=20
+b=40
 
 add=$((a + b))
 echo Addition of a and b are $add

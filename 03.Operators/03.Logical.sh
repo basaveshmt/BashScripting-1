@@ -1,7 +1,7 @@
 #!/bin/bash
 
-a=true
-b=false
+a=false
+b=true
 
 if [[ "$a" == "true" && "$b" == "false" ]];
 then

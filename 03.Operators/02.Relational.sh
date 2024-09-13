@@ -1,7 +1,7 @@
 #!/bin/bash
 
-a=10
-b=20
+a=20
+b=30
 
 if(( $a==$b ))
 then
